@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}
+
+.people{
+    background-color:cadetblue;
+    padding: 10px;
+    color: white;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+}
+
+label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:purple;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:purple;
+}
+
+button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
